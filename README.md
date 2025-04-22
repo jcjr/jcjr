@@ -26,5 +26,5 @@ Sou um profissional com trajetória diversificada, iniciando na área técnica c
 ## 📫 Contato
 
 - **LinkedIn**: [linkedin.com/in/jcjreletrotecnico](https://www.linkedin.com/in/jcjreletrotecnico)
-- **E-mail**: [seu.email@exemplo.com](mailto:josecarlosjr.atc@gmail.com)
-- **GitHub**: [github.com/seuusuario](https://github.com/jcjr)
+- **E-mail**: [josecarlosjr.atc@gmail.com](mailto:josecarlosjr.atc@gmail.com)
+- **GitHub**: [github.com/jcjr](https://github.com/jcjr)
