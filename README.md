@@ -1,30 +1,81 @@
-# 👨‍💻 Portfólio Profissional
+# 👨‍💻 JCJr | Desenvolvedor Backend em Transição de Carreira
 
-## 🧾 Sobre Mim
+## 🚀 Sobre mim
 
-Sou um profissional com trajetória diversificada, iniciando na área técnica como eletricista e eletrotécnico, evoluindo para a manutenção de sistemas e, posteriormente, mergulhando no desenvolvimento de software. Essa jornada me proporcionou uma visão ampla e integrada entre hardware e software, permitindo-me atuar de forma eficaz em projetos que exigem conhecimento multidisciplinar.
+Profissional em transição de carreira para a área de Tecnologia da Informação, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação.
 
-## 💡 Experiência Profissional
+Possuo experiência prática com desenvolvimento de software através de projetos acadêmicos, exercícios avançados e implementação de sistemas utilizando boas práticas de programação.
 
-- **Técnico em Eletrotécnica**: Atuação em instalações elétricas industriais e prediais, com foco em segurança e eficiência energética.
-- **Manutenção de Sistemas**: Responsável pela manutenção preventiva e corretiva de sistemas eletrônicos e automação industrial.
-- **Desenvolvimento de Software**: Desenvolvimento de aplicações utilizando linguagens como Java, JavaScript, Pascal/Delphi, PHP, HTML5 e CSS3, com ênfase na criação de soluções práticas e eficientes.
+## 🧠 Tecnologias e Ferramentas
 
-## 🛠️ Habilidades Técnicas
+* Java
+* Spring Boot
+* MySQL
+* APIs REST
+* JavaScript / HTML / CSS
+* Git e GitHub
 
-- **Linguagens de Programação**: Java, JavaScript, Pascal/Delphi, PHP, HTML5 e CSS3
-- **Frameworks e Ferramentas**: Spring Boot e Bootstrap
-- **Banco de Dados**: MySQL e Postgre
-- **Outras Competências**: Redes de computadores, leitura e interpretação de diagramas elétricos e desenvolvimento de sistemas embarcados
+## 📌 Projetos em destaque
 
-## 🎯 Objetivos Profissionais
+### 🔹 API de Estudos com Spring Boot
 
-- Integrar programação para desenvolver soluções inovadoras.
-- Compartilhar conhecimento por meio de ensino prático e atualizado em linguagens de programação.
-- Contribuir para projetos que visem a melhoria contínua e a eficiência de sistemas.
+Projeto focado na construção de APIs REST utilizando arquitetura em camadas.
+
+**Funcionalidades:**
+
+* Estrutura organizada em controller, service e repository
+* Operações CRUD
+* Integração com banco de dados
+
+👉 https://github.com/jcjr/api-estudos-springboot
+
+---
+
+### 🔹 Sistema de Gestão (Backend)
+
+Sistema backend com foco em simular aplicações reais de mercado.
+
+**Funcionalidades:**
+
+* Cadastro de dados
+* Manipulação de informações
+* Organização de código baseada em boas práticas
+
+👉 https://github.com/jcjr/sistema-gestao-backend
+
+---
+
+### 🔹 Estruturas de Dados em Java
+
+Implementação prática de conceitos fundamentais da computação.
+
+**Conteúdos:**
+
+* Listas
+* Pilhas
+* Filas
+* Algoritmos de ordenação
+
+👉 https://github.com/jcjr/estruturas-de-dados-java
+
+---
+
+## 📚 Formação
+
+* 🎓 Análise e Desenvolvimento de Sistemas (Concluído)
+* 🎓 Ciência da Computação (Em andamento)
+
+## 🎯 Objetivo Profissional
+
+Atuar como desenvolvedor backend ou fullstack, contribuindo no desenvolvimento de soluções robustas, escaláveis e bem estruturadas, enquanto evoluo continuamente minhas habilidades técnicas.
+
+## 📈 Foco Atual
+
+* Aperfeiçoamento em Java e Spring Boot
+* Boas práticas de desenvolvimento
+* Estruturação de projetos profissionais
 
 ## 📫 Contato
 
-- **LinkedIn** : [linkedin.com/in/jcjreletrotecnico](https://www.linkedin.com/in/jcjreletrotecnico)
-- **E-mail**   : [josecarlosjr.atc@gmail.com](mailto:josecarlosjr.atc@gmail.com)
-- **GitHub**   : [github.com/jcjr](https://github.com/jcjr)
+* LinkedIn: https://www.linkedin.com/in/jcjreletrotecnico/
+* Email: josecarlosjr.atc@gmail.com
