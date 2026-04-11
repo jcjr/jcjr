@@ -1,4 +1,4 @@
-# 👨‍💻 JCJr | Desenvolvedor Backend em Transição de Carreira
+# 👨‍💻 José Carlos Júnior | Desenvolvedor Backend e Frontend em Transição de Carreira
 
 ## 🚀 Sobre mim
 
